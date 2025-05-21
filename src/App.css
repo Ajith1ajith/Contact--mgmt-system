@@ -1,0 +1,27 @@
+.one h2{
+    color: gold;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+   
+
+}
+.two{
+    background-color:orchid;
+     height: auto;
+    text-align: center;
+    
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+}
+ .three{
+    background-color:rgb(153, 87, 26);
+} 
+ body{ 
+    background-color:rgb(50, 205, 104) ;
+ } 
+.four{
+    color: black;
+}
+.six{
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+}
+
